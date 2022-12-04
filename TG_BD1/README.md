@@ -2,8 +2,8 @@
 Trabalho de graduação na modalidade Portfólio dos projetos realizados com a metodologia Aprendizagem por Projetos Integrados (API), necessário como parte dos requisitos para obtenção do título de Tecnólogo em Banco de Dados pela [Faculdade de tecnologia de São José dos Campos Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/ "FATEC Prof. Jessen Vidal").
 
 ### Índice:
-- [Sobre o autor](#william-david-antoniazzi).
-- [Meus projetos API](#aprendizagem-por-projetos-integrados---api).
+- [Sobre o autor](#sobre-o-autor).
+- [Meus projetos API](#meus-projetos).
     - [API 1 - 1º Semestre, 2020-1](../semestres/sem1_api.md).
     - [API 2 - 2º Semestre, 2020-2](../semestres/sem2_api.md).
     - [API 3 - 3º Semestre, 2022-2](../semestres/sem3_api.md).
@@ -29,7 +29,7 @@ Bons conhecimentos em redes de computadores como servidores, swithches/roteadore
 
 <table border="0" align="center">
 	<tr> 
-		<td><a href="https://www.linkedin.com/in/williamantoniazzi/"><img src="https://github.com/williamantoniazzi/Bertoti/blob/main/TG_BD1/docsandimages/1516844738897.jpg" /><br/><b>William Antoniazzi</b></a>
+		<td align="center"><a href="https://www.linkedin.com/in/williamantoniazzi/"><img style="border-radius: 50%;" src="https://github.com/williamantoniazzi/Bertoti/blob/main/TG_BD1/docsandimages/1516844738897.jpg" width="200px;"/><br/><b>William Antoniazzi</b></a>
         <br/>
         Analista de Suporte e Infra - TI
         </td>

@@ -11,7 +11,7 @@ Olá bem vindo a este repositório, eu sou William, estudante de Banco de Dados 
 
 <table border="0">
 	<tr> 
-		<td><img src="https://github.com/williamantoniazzi/portifolio_api_fatecsjk/blob/95c86bce9f4eb89a2095feb6eb82ec5feb289c3e/docsandimages/1516844738897.jpg" /> </td>
+		<td><img src="https://github.com/williamantoniazzi/Bertoti/blob/main/TG_BD1/docsandimages/1516844738897.jpg" /> </td>
 		<td>Atualmente trabalho como analista de infraetutura na industria e gosto demais de BD desde sua modelagem, manipulação e gerenciamento. </td>
 	</tr>
 </table> 
