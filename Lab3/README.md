@@ -35,7 +35,7 @@ bertoti_3bd
 **Telas de apresentação**:
 <table border="0">
     <tr>
-        <td><img src="../docs/capturatela1.png" width="249" height="100"></td>
-        <td><img src="./docs/capturatela2.png" width="249" height="100"></td>
+        <td><img src="https://github.com/williamantoniazzi/Bertoti/blob/main/Lab3/docs/capturatela1.PNG" width="249" height="100"></td>
+        <td><img src="https://github.com/williamantoniazzi/Bertoti/blob/main/Lab3/docs/capturatela2.PNG" width="249" height="100"></td>
     </tr>
 </table>
