@@ -1,7 +1,0 @@
-Creata a new schema in MSQL DATABASE as following commands:
-
-New database name:
-	crate database ioweather;
-
-Not create tables.
-Execute programa.
