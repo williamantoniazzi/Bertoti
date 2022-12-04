@@ -4,9 +4,9 @@ Trabalho de graduação na modalidade Portfólio dos projetos realizados com a m
 ### Índice:
 - [Sobre o autor](#sobre-o-autor).
 - [Meus projetos API](#meus-projetos).
-    - [API 1 - 1º Semestre, 2020-1](../semestres/sem1_api.md).
-    - [API 2 - 2º Semestre, 2020-2](../semestres/sem2_api.md).
-    - [API 3 - 3º Semestre, 2022-2](../semestres/sem3_api.md).
+    - [API 1 - 1º Semestre, 2020-1](./semestres/sem1_api.md).
+    - [API 2 - 2º Semestre, 2020-2](./semestres/sem2_api.md).
+    - [API 3 - 3º Semestre, 2022-2](./semestres/sem3_api.md).
     - API 4 - 4º Semestre.
     - API 5 - 5º Semestre.
     - API 6 - 6º Semestre.
@@ -39,9 +39,9 @@ Bons conhecimentos em redes de computadores como servidores, swithches/roteadore
 
 ---
 # Meus Projetos:
-1º Semestre 2020-1 - [Assistente Pessoal PET](../semestres/sem1_api.md). <br/>
-2º Semestre 2020-2 - [Sistema de Digitação de Contas DDC](../semestres/sem2_api.md). <br/>
-3º Semestre 2022-2- [HexTech - Estações e Clima "IOWEATHER"](../semestres/sem3_api.md). <br/>
+1º Semestre 2020-1 - [Assistente Pessoal PET](./semestres/sem1_api.md). <br/>
+2º Semestre 2020-2 - [Sistema de Digitação de Contas DDC](./semestres/sem2_api.md). <br/>
+3º Semestre 2022-2- [HexTech - Estações e Clima "IOWEATHER"](./semestres/sem3_api.md). <br/>
 4º Semestre. <br/>
 5º Semestre. <br/>
 6º Semestre. <br/>
