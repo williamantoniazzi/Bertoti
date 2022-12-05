@@ -1,36 +1,68 @@
-## API 2 - 2º Semestre, 2020-2
-**Projeto**: [Sistema de Digitação de Contas DDC](https://github.com/TobiasLino/tecsus-DDC/  "Sistema de Digitação de Contas DDC").
+# API 2 - 2º Semestre, 2020-2
 
-**Parceiro**: [TecSUS](https://www.tecsus.com.br/ "TecSUS").
+## Projeto: Sistema de digitação de contas DDC.
+[![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/TobiasLino/tecsus-DDC/)
 
+Parceiro Acadêmico: [TecSUS](https://www.tecsus.com.br/).<br>
+
+## Resumo do projeto:
 A TecSUS é uma startup de tecnologia da informação, que atua no desenvolvimento de dispositivos, aplicativos e sistemas para transmissão/recepção de dados, controle de equipamentos remotos e gestão da informação, aplicados predominantemente nos setores de abastecimento de água, saneamento, geração e distribuição de eletricidade, distribuição de gás natural e serviços municipais.
 
-#### Visão do projeto:
 O parceiro pediu uma solução para a digitação de contas, como fazem o gerenciamento do fornecimento de água, luz e gás, para empresas, industrias e agro, eles recebem mensalmente milhares de contas das prestadoras de serviço que precisam ser digitalizados por um call center e com isso perder muito tempo ou não ter controle sobre os demonstrativos já concluídos.
 
 Como isso o sistema que buscam é melhorar esse controle e digitar apenas os campos importantes.
+<br/>
 
+## Tecnologias adotadas:
+Utilização da linguagem Java WEB para back-end e front-end utilizando frameworks web (HTML, CSS, JavaScript), a proposta do grupo foi apresentar uma ferramenta leve para ser utilizada via web.
 
-#### Tecnologias adotadas:
-Utilização da linguagem Java para back-end e front-end utilizando frameworks web (HTML, CSS, JavaScript), a proposta do grupo foi apresentar uma ferramenta leve para ser utilizada via web.
+Facilitando a digitação dos dados das contas de Energia, Água, Gás e outros de seus clientes.
 
-Sistema constitui de telas em web
+Wireframes da aplicação em funcionamento.
 
 ![](docsandimages/DDC_TECSUS_Wireframes.gif "DDC_Wireframes")
-Video 02 - Wireframes da aplicação, páginas web.
 
+Para a metedologia ágil, utilziamos o [Trello](https://trello.com/) para realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto.
+<br/>
 
-#### Contribuições pessoais e aprendizado:
-Programação é um desafio para mim, fiquei responsável pelo front-end com tkinter e algumas telas em python como cadstro de animal e ração para mim foi um desafio, pois aprendri orientação a objeto sintaxe e validação em casa de erros ou dados incorretos. 
-
+## Contribuições pessoais e aprendizado:
+Programação é um desafio para mim, fiquei responsável pelo front-end com HTML, CSS e integação com o back-end Java e onde orientação a objeto sintaxe e validação em caso de erros ou dados incorretos.
 Também contruibui com o grupo pela modelatem de banco e sua implementação em MySQL.
 
 Para mim este projeto agregou em:
 - Conhecimento de uma linguagem de programação;
-- Trabalhar com API (json) da parte de clima e conhecer sua estrutura e sintaxe;
 - Integração em Back-end, Front-end e BD;
 
+<br/>
 
-------------
+## Aprendizados efetivos:
+**Hard Skills**
 
+| Tecnologia/Metodologia | Classificação|
+| ----- | ----- |
+| Metodologia Scrum | ★★★★★☆☆☆☆☆ |
+| Java | ★★★☆☆☆☆☆☆☆ |
+| MySQL | ★★★★★★☆☆☆☆ |
+| GIT | ★★★★★☆☆☆☆☆ |
 
+<br/>
+
+**Soft Skills**
+| Habilidade | Classificação |
+| ----- | ----- |
+| Proatividade | ★★★★★★☆☆☆☆ |
+| Estratégico | ★★★★☆☆☆☆☆☆ |
+| Foco | ★★★★★★☆☆☆☆ |
+| Organização | ★★★★★☆☆☆☆☆ |
+| Analítico | ★★★★☆☆☆☆☆☆ |
+
+<br/>
+
+---
+## Meus Projetos:
+1º Semestre 2020-1 - [Assistente Pessoal PET](./semestres/sem1_api.md). <br/>
+2º Semestre 2020-2 - [Sistema de Digitação de Contas DDC](./semestres/sem2_api.md). <br/>
+3º Semestre 2022-2- [HexTech - Estações e Clima "IOWEATHER"](./semestres/sem3_api.md). <br/>
+4º Semestre. <br/>
+5º Semestre. <br/>
+6º Semestre. <br/>
