@@ -16,10 +16,13 @@ Adotado pelo grupo a criação de um sistema WEB com back-end JAVA (com JPA, Thy
 Para a metodologid de desenvolvimento e tarefas utilizamos o [Atlassian JIRA](https://www.atlassian.com/br/software/jira)
 Espaço da [HEXTECH](https://fatecbdsjc.atlassian.net/jira/software/projects/FHTAPI3SEM/boards/1), ferramenta que nos proporcionou a documentação das atividades e meetings, distribuição de tarefas e burdown.
 
-
-
+> OBS: Material ainda em andamento, sem evidências do item em funcionamento
 
 ## Contribuições pessoais e aprendizado:
+Para esta API atribui a responsábilidade para dois papeis o de desenvolvedor e o de SCRUM MASTER da equipe pela primeira vez.
+Tais tarefas me trouxeram maturidade para o desenvolvimento e também conhecimento para analisar, planejar e separar as tarefas de cada menbro dentro da atividade proposta e tempo.
+
+Utlização de materiais e estudos novos como JPA, Thymeleaf, PostgreSQL, Maven, Spring Boot e outros itens que foram necessários aumentar o tempo de estudo para poder entender e executar com as melhores prática.
 
 <br/>
 
