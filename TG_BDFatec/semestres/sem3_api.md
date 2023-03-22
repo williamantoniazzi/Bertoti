@@ -1,6 +1,6 @@
 # API 3 - 3º Semestre, 2022-2
 
-## Projeto: Sistema Meteorológico IOWeather.
+## Projeto: Sistema Meteorológico ioWeather.
 [![Generic badge](https://img.shields.io/badge/GitHub-Repositório-blue.svg)](https://github.com/GroupHextech/HEXTECH-API3sem)
 
 Parceiro Acadêmico: [IACIT Soluções Tecnológicas](https://www.iacit.com.br/).<br>
@@ -57,7 +57,7 @@ Utlização de materiais e estudos novos como JPA, Thymeleaf, PostgreSQL, Maven,
 ## Meus Projetos:
 1º Semestre 2020-1 - [Assistente Pessoal PET](./semestres/sem1_api.md). <br/>
 2º Semestre 2020-2 - [Sistema de Digitação de Contas DDC](./semestres/sem2_api.md). <br/>
-3º Semestre 2022-2- [HexTech - Estações e Clima "IOWEATHER"](./semestres/sem3_api.md). <br/>
-4º Semestre 2023-1 - [HexTech - Aplicação de itens padrão e disponíveis para veículos "DailyPlan"](./semestres/sem4_api.md).<br/>
+3º Semestre 2022-2- [HexTech - Estações e Clima "ioWEATHER"](./semestres/sem3_api.md). <br/>
+4º Semestre 2023-1 - [HexTech - Aplicação de itens padrão e disponíveis para veículos "DailyPlan"](./semestres/sem4_api.md). <br/>
 5º Semestre. <br/>
 6º Semestre. <br/>
