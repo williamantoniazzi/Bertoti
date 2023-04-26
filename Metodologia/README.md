@@ -23,8 +23,8 @@ Atualmente sou Analista de Suporte e Infraestrutra em TI na área da industria [
 <br/>  
 
 Bons conhecimentos em redes de computadores como servidores, swithches/roteadores e com a faculdade estou aprimorando conhecimentos em Banco de dados (MYSQL, PostgreSQL, ORACLE, SQL Server), programação com Python, Java e WEB, além de metodoligias para execução de projetos como Scrum.
-<br/>
 
+<br/>
 
 <table border="0" align="center">
     <tr>
@@ -46,9 +46,11 @@ Bons conhecimentos em redes de computadores como servidores, swithches/roteadore
 </table>
 
 <br/>
+<br/>
 
 ---
 
+<br/>
 <br/>
 
 # Meus Projetos
