@@ -15,7 +15,6 @@ Parceiro Acadêmico: [EMBRAER SA](https://embraer.com/br/pt).
 <!-- IACIT é uma empresa brasileira, fundada em 1986, São 36 anos de experiência que começaram com a prestação de suporte técnico à Tecnasa, fabricante de equipamentos para o segmento de navegação aérea. Com capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados às áreas de Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação; Telemetria e Agronegócio.
 
 O problema apresentado é a necessidade em armazenar os dados das estações em um banco de dados e a partir destes dados conseguir gertar relátorios e gráficos a seus clientes. -->
-
 <br/>
 
 ## Tecnologias adotadas:
@@ -26,7 +25,6 @@ Para a metodologid de desenvolvimento e tarefas utilizamos o [Atlassian JIRA](ht
 Espaço da [HEXTECH](https://fatecbdsjc.atlassian.net/jira/software/projects/FHTAPI3SEM/boards/1), ferramenta que nos proporcionou a documentação das atividades e meetings, distribuição de tarefas e burdown.
 
 > OBS: Material ainda em andamento, sem evidências do item em funcionamento -->
-
 <br/>
 
 ## Contribuições pessoais e aprendizado:
@@ -35,7 +33,6 @@ Espaço da [HEXTECH](https://fatecbdsjc.atlassian.net/jira/software/projects/FHT
 Tais tarefas me trouxeram maturidade para o desenvolvimento e também conhecimento para analisar, planejar e separar as tarefas de cada menbro dentro da atividade proposta e tempo.
 
 Utlização de materiais e estudos novos como JPA, Thymeleaf, PostgreSQL, Maven, Spring Boot e outros itens que foram necessários aumentar o tempo de estudo para poder entender e executar com as melhores prática. -->
-
 <br/>
 
 ## Aprendizados efetivos:
@@ -64,6 +61,7 @@ Utlização de materiais e estudos novos como JPA, Thymeleaf, PostgreSQL, Maven,
 <br/>
 
 ---
+
 ## Meus Projetos:
 
 1º Semestre 2020-1 - [Assistente Pessoal PET](./semestres/sem1_api.md). <br/>
@@ -72,11 +70,9 @@ Utlização de materiais e estudos novos como JPA, Thymeleaf, PostgreSQL, Maven,
 4º Semestre 2023-1 - [HexTech - Aplicação de itens padrão e disponíveis para veículos "EMBRACAR"](./semestres/sem4_api.md). <br/>
 5º Semestre. <br/>
 6º Semestre. <br/>
-
 <br/>
 
 ---
-
 <br/>
 
 [Home](../README.md)

@@ -11,20 +11,16 @@ Trabalho de graduação na modalidade Portfólio dos projetos realizados com a m
 
 Eu sou William David Antoniazzi, tenho 35 anos e estou cursando o 3º Semestre de Banco de Dados, ingressei no primeiro semestre de 2020.
 Atualmente sou formado Técnico em informática pelo [SENAC SJC](https://www.sp.senac.br/senac-sao-jose-dos-campos) e Graduado técnologo em Redes de computadores pela [UNICID - Universidade Cidade de São Paulo](https://www.unicid.edu.br/).
-
 <br/>
 
 Durante a gradução a cada semestre é desenvovido um projeto integrando as disciplinas do semestre e problemas reais do mercado de trabalho em parcerias com empresas convidadas pela entidade, API - Aprendizagem por Projetos Integrados.
 Com a API tive a oportudade em colocar em prática o conteúdo estudado e pesquisar novas soluções para atender a demanda e construir soluções que atendam o cliente, agregando valor.
-
 <br/>
 
 Atualmente sou Analista de Suporte e Infraestrutra em TI na área da industria [Sonaca Brasil LTDA](https://www.linkedin.com/company/sonacabrasil), atuando no gerenciamento e planejamento da infra, rotas e integrações de ambientes Redes e Computadores.
-
 <br/>  
 
 Bons conhecimentos em redes de computadores como servidores, swithches/roteadores e com a faculdade estou aprimorando conhecimentos em Banco de dados (MYSQL, PostgreSQL, ORACLE, SQL Server), programação com Python, Java e WEB, além de metodoligias para execução de projetos como Scrum.
-
 <br/>
 
 <table border="0" align="center">
@@ -45,14 +41,12 @@ Bons conhecimentos em redes de computadores como servidores, swithches/roteadore
         </td>
     </tr>
 </table>
-
 <br/>
 
 ---
-
 <br/>
 
-# Meus Projetos
+## Meus Projetos
 
 1º Semestre 2020-1 - [Assistente Pessoal PET](./semestres/sem1_api.md). <br/>
 2º Semestre 2020-2 - [Sistema de Digitação de Contas DDC](./semestres/sem2_api.md). <br/>
@@ -60,11 +54,9 @@ Bons conhecimentos em redes de computadores como servidores, swithches/roteadore
 4º Semestre 2023-1 - [HexTech - Aplicação de itens padrão e disponíveis para veículos "EMBRACAR"](./semestres/sem4_api.md). <br/>
 5º Semestre. <br/>
 6º Semestre. <br/>
-
 <br/>
 
 ---
-
 <br/>
 
 [Home](#portfólio-apis-banco-de-dados---william-david-antoniazzi)

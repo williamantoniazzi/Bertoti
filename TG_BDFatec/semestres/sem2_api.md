@@ -17,7 +17,6 @@ A TecSUS é uma startup de tecnologia da informação, que atua no desenvolvimen
 O parceiro pediu uma solução para a digitação de contas, como fazem o gerenciamento do fornecimento de água, luz e gás, para empresas, industrias e agro, eles recebem mensalmente milhares de contas das prestadoras de serviço que precisam ser digitalizados por um call center e com isso perder muito tempo ou não ter controle sobre os demonstrativos já concluídos.
 
 Como isso o sistema que buscam é melhorar esse controle e digitar apenas os campos importantes.
-
 <br/>
 
 ## Tecnologias adotadas:
@@ -31,7 +30,6 @@ Wireframes da aplicação em funcionamento.
 ![](../docsandimages/DDC_TECSUS_Wireframes.gif "DDC_Wireframes")
 
 Para a metedologia ágil, utilziamos o [Trello](https://trello.com/) para realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto.
-
 <br/>
 
 ## Contribuições pessoais e aprendizado:
@@ -42,7 +40,6 @@ Também contruibui com o grupo pela modelatem de banco e sua implementação em 
 Para mim este projeto agregou em:
 - Conhecimento de uma linguagem de programação;
 - Integração em Back-end, Front-end e BD;
-
 <br/>
 
 ## Aprendizados efetivos:
@@ -70,6 +67,7 @@ Para mim este projeto agregou em:
 <br/>
 
 ---
+
 ## Meus Projetos:
 
 1º Semestre 2020-1 - [Assistente Pessoal PET](./semestres/sem1_api.md). <br/>
@@ -78,11 +76,9 @@ Para mim este projeto agregou em:
 4º Semestre 2023-1 - [HexTech - Aplicação de itens padrão e disponíveis para veículos "EMBRACAR"](./semestres/sem4_api.md). <br/>
 5º Semestre. <br/>
 6º Semestre. <br/>
-
 <br/>
 
 ---
-
 <br/>
 
 [Home](../README.md)

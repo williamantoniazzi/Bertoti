@@ -17,7 +17,6 @@ Projeto proposto pela prórpria faculade que onde os alunos do 1º semestre, no 
 O escopo entregue foi desenvolver um assistente pessoal podendo ser mobile, web ou desktop, com uma finalidade e utilizando voz para gerenciamento das atividades.
 
 Adotado pelo grupo a escolha de um assistente desktop, por voz e voltado para cuidados com o pet do cliente.
-
 <br/>
 
 ## Tecnologias adotadas:
@@ -48,7 +47,6 @@ Para mim este projeto agregou em:
 - Conhecimento de uma linguagem de programação;
 - Trabalhar com API (json) da parte de clima e conhecer sua estrutura e sintaxe;
 - Integração em Back-end, Front-end e BD.
-
 <br/>
 
 ## Aprendizados efetivos:
@@ -75,6 +73,7 @@ Para mim este projeto agregou em:
 <br/>
 
 ---
+
 ## Meus Projetos:
 
 1º Semestre 2020-1 - [Assistente Pessoal PET](./semestres/sem1_api.md). <br/>
@@ -83,11 +82,9 @@ Para mim este projeto agregou em:
 4º Semestre 2023-1 - [HexTech - Aplicação de itens padrão e disponíveis para veículos "EMBRACAR"](./semestres/sem4_api.md). <br/>
 5º Semestre. <br/>
 6º Semestre. <br/>
-
 <br/>
 
 ---
-
 <br/>
 
 [Home](../README.md)
