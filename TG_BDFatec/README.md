@@ -7,8 +7,6 @@ Trabalho de graduação na modalidade Portfólio dos projetos realizados com a m
 - [Sobre o autor](#sobre-o-autor).
 - [Meus projetos API](#meus-projetos).
 
-<br/>
-
 ## Sobre o autor
 
 Eu sou William David Antoniazzi, tenho 35 anos e estou cursando o 3º Semestre de Banco de Dados, ingressei no primeiro semestre de 2020.
