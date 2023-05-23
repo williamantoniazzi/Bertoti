@@ -17,7 +17,9 @@ Projeto proposto pela prórpria faculade que onde os alunos do 1º semestre, no 
 O escopo entregue foi desenvolver um assistente pessoal podendo ser mobile, web ou desktop, com uma finalidade e utilizando voz para gerenciamento das atividades.
 
 Adotado pelo grupo a escolha de um assistente desktop, por voz e voltado para cuidados com o pet do cliente.
+
 <br/>
+
 
 ## Tecnologias adotadas:
 
@@ -37,7 +39,8 @@ Abaixo podemos ver o Assistente pet em funcionamento, apresentação final FATEC
 
 <br/>
 
-## Contribuições pessoais e aprendizado:
+
+## Contribuições individuais:
 
 Programação é um desafio para mim, fiquei responsável pelo front-end com tkinter e algumas telas em python como cadstro de animal e ração para mim foi um desafio, pois aprendri orientação a objeto sintaxe e validação em casa de erros ou dados incorretos.
 
@@ -47,7 +50,9 @@ Para mim este projeto agregou em:
 - Conhecimento de uma linguagem de programação;
 - Trabalhar com API (json) da parte de clima e conhecer sua estrutura e sintaxe;
 - Integração em Back-end, Front-end e BD.
+
 <br/>
+
 
 ## Aprendizados efetivos:
 
@@ -57,7 +62,8 @@ Para mim este projeto agregou em:
 | ----- | ----- |
 | Metodologia Scrum | ★★★★☆☆☆☆☆☆ |
 | Python | ★★★★★☆☆☆☆☆ |
-| GIT | ★★★★★☆☆☆☆☆ |
+| MySQL | ★★★★★★☆☆☆☆ |
+| Git/ GitHub | ★★★★★☆☆☆☆☆ |
 
 <br/>
 

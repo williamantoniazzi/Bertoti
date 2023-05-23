@@ -43,7 +43,7 @@ Utlização de materiais e estudos novos como JPA, Thymeleaf, PostgreSQL, Maven,
 | ----- | ----- |
 | Metodologia | ★★★★★☆☆☆☆☆ |
 | Java | ★★★☆☆☆☆☆☆☆ |
-| PostgreSQL | ★★★★★★★☆☆☆ |
+| Oracle | ★★★★★★★☆☆☆ |
 | MySQL | ★★★★★★★☆☆☆ |
 | GIT | ★★★★★☆☆☆☆☆ |
 

@@ -10,6 +10,7 @@ Parceiro Acadêmico: [TecSUS Tecnologias para a Sustentabilidade](https://www.te
 
 <br>
 
+
 ## Resumo do projeto:
 
 A TecSUS é uma startup de tecnologia da informação, que atua no desenvolvimento de dispositivos, aplicativos e sistemas para transmissão/recepção de dados, controle de equipamentos remotos e gestão da informação, aplicados predominantemente nos setores de abastecimento de água, saneamento, geração e distribuição de eletricidade, distribuição de gás natural e serviços municipais.
@@ -17,7 +18,9 @@ A TecSUS é uma startup de tecnologia da informação, que atua no desenvolvimen
 O parceiro pediu uma solução para a digitação de contas, como fazem o gerenciamento do fornecimento de água, luz e gás, para empresas, industrias e agro, eles recebem mensalmente milhares de contas das prestadoras de serviço que precisam ser digitalizados por um call center e com isso perder muito tempo ou não ter controle sobre os demonstrativos já concluídos.
 
 Como isso o sistema que buscam é melhorar esse controle e digitar apenas os campos importantes.
+
 <br/>
+
 
 ## Tecnologias adotadas:
 
@@ -30,9 +33,11 @@ Wireframes da aplicação em funcionamento.
 ![](../docsandimages/DDC_TECSUS_Wireframes.gif "DDC_Wireframes")
 
 Para a metedologia ágil, utilziamos o [Trello](https://trello.com/) para realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto.
+
 <br/>
 
-## Contribuições pessoais e aprendizado:
+
+## Contribuições individuais:
 
 Programação é um desafio para mim, fiquei responsável pelo front-end com HTML, CSS e integação com o back-end Java e onde orientação a objeto sintaxe e validação em caso de erros ou dados incorretos.
 Também contruibui com o grupo pela modelatem de banco e sua implementação em MySQL.
@@ -41,6 +46,7 @@ Para mim este projeto agregou em:
 - Conhecimento de uma linguagem de programação;
 - Integração em Back-end, Front-end e BD;
 <br/>
+
 
 ## Aprendizados efetivos:
 
@@ -51,7 +57,7 @@ Para mim este projeto agregou em:
 | Metodologia Scrum | ★★★★★☆☆☆☆☆ |
 | Java | ★★★☆☆☆☆☆☆☆ |
 | MySQL | ★★★★★★☆☆☆☆ |
-| GIT | ★★★★★☆☆☆☆☆ |
+| Git/ GitHub | ★★★★★☆☆☆☆☆ |
 
 <br/>
 
