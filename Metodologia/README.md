@@ -64,8 +64,6 @@ Bons conhecimentos em redes de computadores como servidores, swithches/roteadore
 5º Semestre. <br/>
 6º Semestre. <br/>
 
-<br/>
-
 ## 
 
 [Home](#portfólio-apis-banco-de-dados---william-david-antoniazzi)
