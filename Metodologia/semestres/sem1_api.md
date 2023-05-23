@@ -88,9 +88,7 @@ Para mim este projeto agregou em:
 4º Semestre 2023-1 - [HexTech - Aplicação de itens padrão e disponíveis para veículos "EMBRACAR"](./semestres/sem4_api.md). <br/>
 5º Semestre. <br/>
 6º Semestre. <br/>
-<br/>
 
----
-<br/>
+## 
 
 [Home](../README.md)
