@@ -1,7 +1,0 @@
-INDEX VERSION 1.130+D:\ProvaBertoti\.metadata\.plugins\org.eclipse.jdt.core
-1984437547.index
-3288147116.index
-2351054146.index
-1879247599.index
-51067976.index
-1596533897.index

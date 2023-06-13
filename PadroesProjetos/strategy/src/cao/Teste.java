@@ -1,5 +1,7 @@
 package cao;
 
+import cao.Auau;
+
 public class Teste {
 
 	public static void main(String[] args) {

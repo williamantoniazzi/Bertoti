@@ -10,5 +10,5 @@ public class DataManager {
         return dataManager;
     }
 
-    private DataManager() { }
+    private DataManager() {}
 }
