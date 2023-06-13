@@ -35,10 +35,11 @@ Vídeo apresentação do sistema para entrega final e feira de soluções FATEC.
 
 ## Contribuições individuais:
 
-Para esta API atribui a responsábilidade para dois papeis o de desenvolvedor e o de SCRUM MASTER da equipe pela primeira vez.
-Tais tarefas me trouxeram maturidade para o desenvolvimento e também conhecimento para analisar, planejar e separar as tarefas de cada menbro dentro da atividade proposta e tempo.
+Na implementação desta API, assumi os papéis de desenvolvedor e SCRUM MASTER da equipe pela primeira vez. Essa experiência foi enriquecedora, pois me permitiu adquirir maturidade no desenvolvimento e aprimorar minha capacidade de analisar, planejar e distribuir tarefas entre os membros da equipe, levando em consideração a atividade proposta e os prazos estabelecidos.
 
-Utlização de materiais e estudos novos como JPA, Thymeleaf, PostgreSQL, Maven, Spring Boot e outros itens que foram necessários aumentar o tempo de estudo para poder entender e executar com as melhores prática.
+Além disso, busquei aprofundar meus conhecimentos ao utilizar novos materiais e realizar estudos sobre JPA, Thymeleaf, PostgreSQL, Maven, Spring Boot e outros elementos necessários para o projeto. Essa abordagem exigiu um investimento adicional de tempo para compreender e aplicar as melhores práticas em seu desenvolvimento.
+
+Dessa forma, as minhas contribuições se traduziram em um crescimento tanto individual quanto na qualidade da API, garantindo uma implementação sólida e alinhada com as melhores práticas do setor.
 
 <br/>
 
