@@ -1,8 +1,7 @@
 # Padrões e Projetos de Sistemas
 
 ### Giuliano Bertoti
-
-# bertoti
+---
 
 | Padrão | Anti-padrão | Descrição | Problema que resolve |
 | --- | --- | --- | --- |
@@ -13,21 +12,5 @@
 | Facade | Fat Facade | O Facade é um padrão de projeto estrutural que fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer conjunto complexo de classes |  Acoplamento complexo com bibliotecas ou frameworks
 | Combine-Patterns | Anti-padrão | Utilização de várias técnicas de design de padrões para requisitos especificos como Composite, Standard, Chain of responsibility | Combinação necessária para resolução de um problema
 
-
-
-
-
-
-
-
-| Padrão | Descrição | Problema que resolve |
-| --- | --- | --- |
-| [Strategy](./PadroesProjetos/strategy) | Strategy | Strategy | 
-
-PadroesProjetos/strategy
-
-PadroesProjetos/strategy
-
-https://github.com/williamantoniazzi/Bertoti/tree/7e41bfda2585692a948ee29bacea7364d8b436d8/PadroesProjetos/strategy
-
-https://github.com/williamantoniazzi/Bertoti/tree/main/PadroesProjetos/strategy
+---
+end
