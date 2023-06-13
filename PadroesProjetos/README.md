@@ -22,7 +22,7 @@
 
 | Padrão | Descrição | Problema que resolve |
 | --- | --- | --- |
-| [Strategy](#PadroesProjetos/strategy) | Strategy | Strategy | 
+| [Strategy](./PadroesProjetos/strategy) | Strategy | Strategy | 
 
 PadroesProjetos/strategy
 
