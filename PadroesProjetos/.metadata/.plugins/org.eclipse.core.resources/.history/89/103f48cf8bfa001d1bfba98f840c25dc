@@ -1,0 +1,22 @@
+package menu;
+
+public class MainClass {
+    public static void main(String[] args) {
+        MenuComponent breakfastMenu = new Menu("Cafe da manha menu", "Cafe da manha");
+        MenuComponent lunchMenu = new Menu("Tandoori", "Almoco");
+        MenuComponent dinnerMenu = new Menu("Sul da India", "Jantar");
+
+        MenuComponent allMenus = new Menu("Todos os menus", "Todos os menus combinados");
+        allMenus.add(breakfastMenu);
+        allMenus.add(lunchMenu);
+        allMenus.add(dinnerMenu);
+
+        MenuComponent boiledEgg = new MenuItem("Ovo cozido", "Ovo cozido", "10", false);
+        MenuComponent pannerTikka = new MenuItem("Panner Tikka", "Queijo apimentado Tikka, "110", true);
+
+        breakfastMenu.add(boiledEgg);
+        lunchMenu.add(pannerTikka);
+
+        allMenus.print();
+    }
+}

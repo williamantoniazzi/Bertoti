@@ -1,0 +1,10 @@
+package manager;
+/**
+ * 
+ */
+/**
+ * @author william.antoniazzi
+ *
+ */
+module singleton {
+}
